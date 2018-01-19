@@ -1,0 +1,21 @@
+﻿生成启动时间为 2018/1/17 11:18:26。
+     1>项目“C:\Users\glennge\Desktop\深度学习\AI培训作业\AI_training_work\AI_training_work\AI_training_work.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\random_forest.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\glennge\Desktop\深度学习\AI培训作业\AI_training_work\Debug\random_forest.exe" /NOLOGO opencv_ml2410d.lib opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_objdetect2410d.lib opencv_ts2410d.lib opencv_video2410d.lib opencv_nonfree2410d.lib opencv_ocl2410d.lib opencv_photo2410d.lib opencv_stitching2410d.lib opencv_superres2410d.lib opencv_videostab2410d.lib opencv_objdetect2410.lib opencv_ts2410.lib opencv_video2410.lib opencv_nonfree2410.lib opencv_ocl2410.lib opencv_photo2410.lib opencv_stitching2410.lib opencv_superres2410.lib opencv_videostab2410.lib opencv_calib3d2410.lib opencv_contrib2410.lib opencv_core2410.lib opencv_features2d2410.lib opencv_flann2410.lib opencv_gpu2410.lib opencv_highgui2410.lib opencv_imgproc2410.lib opencv_legacy2410.lib opencv_ml2410.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\random_forest.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\glennge\Desktop\深度学习\AI培训作业\AI_training_work\Debug\random_forest.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\glennge\Desktop\深度学习\AI培训作业\AI_training_work\Debug\random_forest.lib" /MACHINE:X86 Debug\main.obj
+         LINK : 没有找到 C:\Users\glennge\Desktop\深度学习\AI培训作业\AI_training_work\Debug\random_forest.exe 或上一个增量链接没有生成它；正在执行完全链接
+         AI_training_work.vcxproj -> C:\Users\glennge\Desktop\深度学习\AI培训作业\AI_training_work\Debug\random_forest.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\glennge\Desktop\深度学习\AI培训作业\AI_training_work\Debug\random_forest.exe;#1" /manifest Debug\random_forest.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\random_forest.unsuccessfulbuild”。
+         正在对“Debug\random_forest.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\glennge\Desktop\深度学习\AI培训作业\AI_training_work\AI_training_work\AI_training_work.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.30
