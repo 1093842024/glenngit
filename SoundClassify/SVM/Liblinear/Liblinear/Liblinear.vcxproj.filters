@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\linear">
+      <UniqueIdentifier>{4445f80f-3834-4fdc-909a-2dcf66f600f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\blas">
+      <UniqueIdentifier>{9463e80d-5c01-490d-b1b0-bc94bd0d12f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\blas">
+      <UniqueIdentifier>{b9fdf365-1e15-445e-8356-a6f34f575c11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\linear">
+      <UniqueIdentifier>{9f4d7123-c99f-4f04-8c9b-a130c3c44db6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="blas.h">
+      <Filter>头文件\blas</Filter>
+    </ClInclude>
+    <ClInclude Include="blasp.h">
+      <Filter>头文件\blas</Filter>
+    </ClInclude>
+    <ClInclude Include="linear.h">
+      <Filter>头文件\linear</Filter>
+    </ClInclude>
+    <ClInclude Include="predict.h">
+      <Filter>头文件\linear</Filter>
+    </ClInclude>
+    <ClInclude Include="train.h">
+      <Filter>头文件\linear</Filter>
+    </ClInclude>
+    <ClInclude Include="tron.h">
+      <Filter>头文件\linear</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="daxpy.c">
+      <Filter>源文件\blas</Filter>
+    </ClCompile>
+    <ClCompile Include="ddot.c">
+      <Filter>源文件\blas</Filter>
+    </ClCompile>
+    <ClCompile Include="dnrm2.c">
+      <Filter>源文件\blas</Filter>
+    </ClCompile>
+    <ClCompile Include="dscal.c">
+      <Filter>源文件\blas</Filter>
+    </ClCompile>
+    <ClCompile Include="linear.cpp">
+      <Filter>源文件\linear</Filter>
+    </ClCompile>
+    <ClCompile Include="tron.cpp">
+      <Filter>源文件\linear</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="predict.cpp">
+      <Filter>源文件\linear</Filter>
+    </ClCompile>
+    <ClCompile Include="train.cpp">
+      <Filter>源文件\linear</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

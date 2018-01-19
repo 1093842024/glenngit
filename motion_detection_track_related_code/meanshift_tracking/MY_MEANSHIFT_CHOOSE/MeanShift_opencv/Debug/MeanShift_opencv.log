@@ -1,0 +1,34 @@
+﻿生成启动时间为 2017/11/22 16:11:57。
+     1>项目“C:\Users\glennge\Desktop\移动跟踪\meanshift\MY_MEANSHIFT_CHOOSE\MeanShift_opencv\MeanShift_opencv.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\MeanShift_opencv_track1.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\opencv2.4.10\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\users\glennge\desktop\移动跟踪\meanshift\my_meanshift_choose\meanshift_opencv\main.cpp(97): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\glennge\desktop\移动跟踪\meanshift\my_meanshift_choose\meanshift_opencv\main.cpp(99): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\glennge\desktop\移动跟踪\meanshift\my_meanshift_choose\meanshift_opencv\main.cpp(100): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\glennge\desktop\移动跟踪\meanshift\my_meanshift_choose\meanshift_opencv\main.cpp(174): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\glennge\desktop\移动跟踪\meanshift\my_meanshift_choose\meanshift_opencv\main.cpp(176): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\glennge\desktop\移动跟踪\meanshift\my_meanshift_choose\meanshift_opencv\main.cpp(177): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\glennge\desktop\移动跟踪\meanshift\my_meanshift_choose\meanshift_opencv\main.cpp(211): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\glennge\desktop\移动跟踪\meanshift\my_meanshift_choose\meanshift_opencv\main.cpp(212): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\glennge\desktop\移动跟踪\meanshift\my_meanshift_choose\meanshift_opencv\main.cpp(272): warning C4244: “=”: 从“int64”转换到“double”，可能丢失数据
+     1>c:\users\glennge\desktop\移动跟踪\meanshift\my_meanshift_choose\meanshift_opencv\main.cpp(274): warning C4244: “=”: 从“int64”转换到“double”，可能丢失数据
+     1>c:\users\glennge\desktop\移动跟踪\meanshift\my_meanshift_choose\meanshift_opencv\main.cpp(261): warning C4101: “res”: 未引用的局部变量
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\glennge\Desktop\移动跟踪\meanshift\MY_MEANSHIFT_CHOOSE\Debug\MeanShift_opencv_track1.exe" /NOLOGO opencv_ml2410d.lib opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_objdetect2410d.lib opencv_ts2410d.lib opencv_video2410d.lib opencv_nonfree2410d.lib opencv_ocl2410d.lib opencv_photo2410d.lib opencv_stitching2410d.lib opencv_superres2410d.lib opencv_videostab2410d.lib opencv_objdetect2410.lib opencv_ts2410.lib opencv_video2410.lib opencv_nonfree2410.lib opencv_ocl2410.lib opencv_photo2410.lib opencv_stitching2410.lib opencv_superres2410.lib opencv_videostab2410.lib opencv_calib3d2410.lib opencv_contrib2410.lib opencv_core2410.lib opencv_features2d2410.lib opencv_flann2410.lib opencv_gpu2410.lib opencv_highgui2410.lib opencv_imgproc2410.lib opencv_legacy2410.lib opencv_ml2410.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\MeanShift_opencv_track1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\glennge\Desktop\移动跟踪\meanshift\MY_MEANSHIFT_CHOOSE\Debug\MeanShift_opencv_track1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\glennge\Desktop\移动跟踪\meanshift\MY_MEANSHIFT_CHOOSE\Debug\MeanShift_opencv_track1.lib" /MACHINE:X86 Debug\main.obj
+         LINK : 没有找到 C:\Users\glennge\Desktop\移动跟踪\meanshift\MY_MEANSHIFT_CHOOSE\Debug\MeanShift_opencv_track1.exe 或上一个增量链接没有生成它；正在执行完全链接
+         MeanShift_opencv.vcxproj -> C:\Users\glennge\Desktop\移动跟踪\meanshift\MY_MEANSHIFT_CHOOSE\Debug\MeanShift_opencv_track1.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\glennge\Desktop\移动跟踪\meanshift\MY_MEANSHIFT_CHOOSE\Debug\MeanShift_opencv_track1.exe;#1" /manifest Debug\MeanShift_opencv_track1.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\MeanShift_opencv_track1.unsuccessfulbuild”。
+         正在对“Debug\MeanShift_opencv_track1.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\glennge\Desktop\移动跟踪\meanshift\MY_MEANSHIFT_CHOOSE\MeanShift_opencv\MeanShift_opencv.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.04

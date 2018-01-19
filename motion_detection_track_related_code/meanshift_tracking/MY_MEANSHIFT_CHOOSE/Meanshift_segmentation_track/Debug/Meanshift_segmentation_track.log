@@ -1,0 +1,26 @@
+﻿生成启动时间为 2017/12/8 10:13:44。
+     1>项目“C:\Users\glennge\Desktop\移动跟踪\meanshift\MY_MEANSHIFT_CHOOSE\Meanshift_segmentation_track\Meanshift_segmentation_track.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Meanshift_segmentation_track.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt MeanShift.cpp
+         MeanShift.cpp
+     1>c:\users\glennge\desktop\移动跟踪\meanshift\my_meanshift_choose\meanshift_segmentation_track\meanshift.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\users\glennge\desktop\移动跟踪\meanshift\my_meanshift_choose\meanshift_segmentation_track\meanshift.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\glennge\Desktop\移动跟踪\meanshift\MY_MEANSHIFT_CHOOSE\Debug\Meanshift_segmentation_track.exe" /NOLOGO opencv_ml2410d.lib opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_objdetect2410d.lib opencv_ts2410d.lib opencv_video2410d.lib opencv_nonfree2410d.lib opencv_ocl2410d.lib opencv_photo2410d.lib opencv_stitching2410d.lib opencv_superres2410d.lib opencv_videostab2410d.lib opencv_objdetect2410.lib opencv_ts2410.lib opencv_video2410.lib opencv_nonfree2410.lib opencv_ocl2410.lib opencv_photo2410.lib opencv_stitching2410.lib opencv_superres2410.lib opencv_videostab2410.lib opencv_calib3d2410.lib opencv_contrib2410.lib opencv_core2410.lib opencv_features2d2410.lib opencv_flann2410.lib opencv_gpu2410.lib opencv_highgui2410.lib opencv_imgproc2410.lib opencv_legacy2410.lib opencv_ml2410.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Meanshift_segmentation_track.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\glennge\Desktop\移动跟踪\meanshift\MY_MEANSHIFT_CHOOSE\Debug\Meanshift_segmentation_track.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\glennge\Desktop\移动跟踪\meanshift\MY_MEANSHIFT_CHOOSE\Debug\Meanshift_segmentation_track.lib" /MACHINE:X86 Debug\Kalman.obj
+         Debug\main.obj
+         Debug\MeanShift.obj
+         Debug\meanshift_segmentation.obj
+         LINK : 没有找到 C:\Users\glennge\Desktop\移动跟踪\meanshift\MY_MEANSHIFT_CHOOSE\Debug\Meanshift_segmentation_track.exe 或上一个增量链接没有生成它；正在执行完全链接
+         Meanshift_segmentation_track.vcxproj -> C:\Users\glennge\Desktop\移动跟踪\meanshift\MY_MEANSHIFT_CHOOSE\Debug\Meanshift_segmentation_track.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\glennge\Desktop\移动跟踪\meanshift\MY_MEANSHIFT_CHOOSE\Debug\Meanshift_segmentation_track.exe;#1" /manifest Debug\Meanshift_segmentation_track.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Meanshift_segmentation_track.unsuccessfulbuild”。
+         正在对“Debug\Meanshift_segmentation_track.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\glennge\Desktop\移动跟踪\meanshift\MY_MEANSHIFT_CHOOSE\Meanshift_segmentation_track\Meanshift_segmentation_track.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.78

@@ -1,0 +1,70 @@
+﻿生成启动时间为 2018/1/3 17:44:52。
+     1>项目“C:\Users\glennge\Desktop\9-Algorithm\HDalg_with_tracker\HDalg_with_tracker\HDalg_with_tracker\HDalg_with_tracker.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\HDalg_with_tracker.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt HDalg.cpp Morph.cpp VibeModel.cpp kcftracker.cpp main.cpp track.cpp trackerinterface.cpp
+         kcftracker.cpp
+     1>c:\users\glennge\desktop\9-algorithm\hdalg_with_tracker\hdalg_with_tracker\hdalg_with_tracker\ffttools.hpp(153): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\glennge\desktop\9-algorithm\hdalg_with_tracker\hdalg_with_tracker\hdalg_with_tracker\kcftracker.cpp(36): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\glennge\desktop\9-algorithm\hdalg_with_tracker\hdalg_with_tracker\hdalg_with_tracker\kcftracker.cpp(43): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\glennge\desktop\9-algorithm\hdalg_with_tracker\hdalg_with_tracker\hdalg_with_tracker\kcftracker.cpp(62): warning C4305: “=”: 从“double”到“float”截断
+     1>c:\users\glennge\desktop\9-algorithm\hdalg_with_tracker\hdalg_with_tracker\hdalg_with_tracker\kcftracker.cpp(68): warning C4305: “=”: 从“double”到“float”截断
+     1>c:\users\glennge\desktop\9-algorithm\hdalg_with_tracker\hdalg_with_tracker\hdalg_with_tracker\kcftracker.cpp(69): warning C4305: “=”: 从“double”到“float”截断
+     1>c:\users\glennge\desktop\9-algorithm\hdalg_with_tracker\hdalg_with_tracker\hdalg_with_tracker\kcftracker.cpp(78): warning C4305: “=”: 从“double”到“float”截断
+     1>c:\users\glennge\desktop\9-algorithm\hdalg_with_tracker\hdalg_with_tracker\hdalg_with_tracker\kcftracker.cpp(83): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\glennge\desktop\9-algorithm\hdalg_with_tracker\hdalg_with_tracker\hdalg_with_tracker\kcftracker.cpp(84): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\glennge\desktop\9-algorithm\hdalg_with_tracker\hdalg_with_tracker\hdalg_with_tracker\kcftracker.cpp(85): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\glennge\desktop\9-algorithm\hdalg_with_tracker\hdalg_with_tracker\hdalg_with_tracker\kcftracker.cpp(86): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\glennge\desktop\9-algorithm\hdalg_with_tracker\hdalg_with_tracker\hdalg_with_tracker\kcftracker.cpp(110): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\glennge\desktop\9-algorithm\hdalg_with_tracker\hdalg_with_tracker\hdalg_with_tracker\kcftracker.cpp(111): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\glennge\desktop\9-algorithm\hdalg_with_tracker\hdalg_with_tracker\hdalg_with_tracker\kcftracker.cpp(145): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\glennge\desktop\9-algorithm\hdalg_with_tracker\hdalg_with_tracker\hdalg_with_tracker\kcftracker.cpp(146): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\glennge\desktop\9-algorithm\hdalg_with_tracker\hdalg_with_tracker\hdalg_with_tracker\kcftracker.cpp(214): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\glennge\desktop\9-algorithm\hdalg_with_tracker\hdalg_with_tracker\hdalg_with_tracker\kcftracker.cpp(215): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\glennge\desktop\9-algorithm\hdalg_with_tracker\hdalg_with_tracker\hdalg_with_tracker\kcftracker.cpp(252): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\glennge\desktop\9-algorithm\hdalg_with_tracker\hdalg_with_tracker\hdalg_with_tracker\kcftracker.cpp(252): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\glennge\desktop\9-algorithm\hdalg_with_tracker\hdalg_with_tracker\hdalg_with_tracker\kcftracker.cpp(453): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\glennge\desktop\9-algorithm\hdalg_with_tracker\hdalg_with_tracker\hdalg_with_tracker\kcftracker.cpp(480): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\glennge\desktop\9-algorithm\hdalg_with_tracker\hdalg_with_tracker\hdalg_with_tracker\kcftracker.cpp(481): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\glennge\desktop\9-algorithm\hdalg_with_tracker\hdalg_with_tracker\hdalg_with_tracker\kcftracker.cpp(489): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\glennge\desktop\9-algorithm\hdalg_with_tracker\hdalg_with_tracker\hdalg_with_tracker\kcftracker.cpp(490): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\glennge\desktop\9-algorithm\hdalg_with_tracker\hdalg_with_tracker\hdalg_with_tracker\kcftracker.cpp(509): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\glennge\desktop\9-algorithm\hdalg_with_tracker\hdalg_with_tracker\hdalg_with_tracker\kcftracker.cpp(510): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\glennge\desktop\9-algorithm\hdalg_with_tracker\hdalg_with_tracker\hdalg_with_tracker\kcftracker.cpp(513): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\glennge\desktop\9-algorithm\hdalg_with_tracker\hdalg_with_tracker\hdalg_with_tracker\kcftracker.cpp(514): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\glennge\desktop\9-algorithm\hdalg_with_tracker\hdalg_with_tracker\hdalg_with_tracker\kcftracker.cpp(584): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\glennge\desktop\9-algorithm\hdalg_with_tracker\hdalg_with_tracker\hdalg_with_tracker\kcftracker.cpp(587): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\glennge\desktop\9-algorithm\hdalg_with_tracker\hdalg_with_tracker\hdalg_with_tracker\kcftracker.cpp(633): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+         正在生成代码...
+         正在跳过...(未检测到相关更改)
+         trackerinterface.cpp
+         track.cpp
+         main.cpp
+         VibeModel.cpp
+         Morph.cpp
+         HDalg.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\glennge\Desktop\9-Algorithm\HDalg_with_tracker\HDalg_with_tracker\Debug\HDalg_with_tracker.exe" /NOLOGO opencv_ml2410d.lib opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_objdetect2410d.lib opencv_ts2410d.lib opencv_video2410d.lib opencv_nonfree2410d.lib opencv_ocl2410d.lib opencv_photo2410d.lib opencv_stitching2410d.lib opencv_superres2410d.lib opencv_videostab2410d.lib opencv_objdetect2410.lib opencv_ts2410.lib opencv_video2410.lib opencv_nonfree2410.lib opencv_ocl2410.lib opencv_photo2410.lib opencv_stitching2410.lib opencv_superres2410.lib opencv_videostab2410.lib opencv_calib3d2410.lib opencv_contrib2410.lib opencv_core2410.lib opencv_features2d2410.lib opencv_flann2410.lib opencv_gpu2410.lib opencv_highgui2410.lib opencv_imgproc2410.lib opencv_legacy2410.lib opencv_ml2410.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\HDalg_with_tracker.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\glennge\Desktop\9-Algorithm\HDalg_with_tracker\HDalg_with_tracker\Debug\HDalg_with_tracker.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\glennge\Desktop\9-Algorithm\HDalg_with_tracker\HDalg_with_tracker\Debug\HDalg_with_tracker.lib" /MACHINE:X86 Debug\basetype.obj
+         Debug\dxt.obj
+         Debug\fhog.obj
+         Debug\HDalg.obj
+         Debug\kcftracker.obj
+         Debug\main.obj
+         Debug\Morph.obj
+         Debug\MultiObjTrack.obj
+         Debug\track.obj
+         Debug\trackerinterface.obj
+         Debug\VibeModel.obj
+         LINK : 没有找到 C:\Users\glennge\Desktop\9-Algorithm\HDalg_with_tracker\HDalg_with_tracker\Debug\HDalg_with_tracker.exe 或上一个增量链接没有生成它；正在执行完全链接
+         HDalg_with_tracker.vcxproj -> C:\Users\glennge\Desktop\9-Algorithm\HDalg_with_tracker\HDalg_with_tracker\Debug\HDalg_with_tracker.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\glennge\Desktop\9-Algorithm\HDalg_with_tracker\HDalg_with_tracker\Debug\HDalg_with_tracker.exe;#1" /manifest Debug\HDalg_with_tracker.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\HDalg_with_tracker.unsuccessfulbuild”。
+         正在对“Debug\HDalg_with_tracker.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\glennge\Desktop\9-Algorithm\HDalg_with_tracker\HDalg_with_tracker\HDalg_with_tracker\HDalg_with_tracker.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.01

@@ -1,0 +1,23 @@
+﻿生成启动时间为 2017/11/20 20:41:50。
+     1>项目“C:\Users\glennge\Desktop\移动跟踪\meanshift\MY_MEANSHIFT\HOF_SVM_MEANSHIFT\HOF_SVM_MEANSHIFT.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\HOF_SVM_MEANSHIFT.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt videohand.cpp
+         videohand.cpp
+     1>c:\users\glennge\desktop\移动跟踪\meanshift\my_meanshift\hof_svm_meanshift\videohand.cpp(28): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+     1>c:\users\glennge\desktop\移动跟踪\meanshift\my_meanshift\hof_svm_meanshift\videohand.cpp(61): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\glennge\Desktop\移动跟踪\meanshift\MY_MEANSHIFT\Debug\HOF_SVM_MEANSHIFT.exe" /NOLOGO opencv_ml2410d.lib opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_objdetect2410d.lib opencv_ts2410d.lib opencv_video2410d.lib opencv_nonfree2410d.lib opencv_ocl2410d.lib opencv_photo2410d.lib opencv_stitching2410d.lib opencv_superres2410d.lib opencv_videostab2410d.lib opencv_objdetect2410.lib opencv_ts2410.lib opencv_video2410.lib opencv_nonfree2410.lib opencv_ocl2410.lib opencv_photo2410.lib opencv_stitching2410.lib opencv_superres2410.lib opencv_videostab2410.lib opencv_calib3d2410.lib opencv_contrib2410.lib opencv_core2410.lib opencv_features2d2410.lib opencv_flann2410.lib opencv_gpu2410.lib opencv_highgui2410.lib opencv_imgproc2410.lib opencv_legacy2410.lib opencv_ml2410.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\HOF_SVM_MEANSHIFT.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\glennge\Desktop\移动跟踪\meanshift\MY_MEANSHIFT\Debug\HOF_SVM_MEANSHIFT.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\glennge\Desktop\移动跟踪\meanshift\MY_MEANSHIFT\Debug\HOF_SVM_MEANSHIFT.lib" /MACHINE:X86 Debug\videohand.obj
+         LINK : 没有找到 C:\Users\glennge\Desktop\移动跟踪\meanshift\MY_MEANSHIFT\Debug\HOF_SVM_MEANSHIFT.exe 或上一个增量链接没有生成它；正在执行完全链接
+         HOF_SVM_MEANSHIFT.vcxproj -> C:\Users\glennge\Desktop\移动跟踪\meanshift\MY_MEANSHIFT\Debug\HOF_SVM_MEANSHIFT.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\glennge\Desktop\移动跟踪\meanshift\MY_MEANSHIFT\Debug\HOF_SVM_MEANSHIFT.exe;#1" /manifest Debug\HOF_SVM_MEANSHIFT.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\HOF_SVM_MEANSHIFT.unsuccessfulbuild”。
+         正在对“Debug\HOF_SVM_MEANSHIFT.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\glennge\Desktop\移动跟踪\meanshift\MY_MEANSHIFT\HOF_SVM_MEANSHIFT\HOF_SVM_MEANSHIFT.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.31
